@@ -28,11 +28,6 @@ A comprehensive collection of Python implementations for various topological ins
 - Calculates winding number and Zak phase
 - Features: Bulk-boundary correspondence, edge states visualization
 
-### [Wilson-Dirac-Hubbard Model](Wilson-Dirac-Hubbard%20Model/)
-**Interacting Topological Insulator Model**
-- Wilson-Dirac model with Hubbard interactions
-- Studies interaction effects on topology
-- Features: Mean-field treatment, phase diagrams
 
 ## Features
 
