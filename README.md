@@ -10,23 +10,30 @@ A comprehensive collection of Python implementations for various topological ins
 - Band structure calculation for various lattice geometries
 - Features: Multi-orbital systems, arbitrary lattice structures, Green's function methods
 
+### [SSH Model](SSH%20Model/)
+**Su-Schrieffer-Heeger Model - 1D Topological Insulator**
+- 1D chain model with dimerization
+- Calculates winding number and Zak phase
+- Features: Bulk-boundary correspondence, edge states visualization
+
+### [QWZ Model](QWZ%20Model/)
+**Qi-Wu-Zhang Model - 2D Quantum Spin Hall Effect**
+- Implementation of the first proposed model for 2D topological insulators
+- Calculates Chern numbers and displays edge states
+- Features: Band structure plotting, topological phase diagrams
+
 ### [BHZ Model](BHZ%20Model/)
 **Bernevig-Hughes-Zhang Model - 2D Quantum Spin Hall Effect**
 - Implementation of the first proposed model for 2D topological insulators
 - Calculates Chern numbers and displays edge states
 - Features: Band structure plotting, topological phase diagrams
 
-### [Kane-Mele Model](Kane-Mele%20Model/)
+### [Graphene Models](Graphene%20Models/)
 **Graphene-based Quantum Spin Hall Effect Model**
-- Implements the original Kane-Mele model for graphene
+- Implements the original Kane-Mele and Haldane models for graphene
 - Calculates Z₂ topological invariant
-- Features: Spin Chern numbers, edge state analysis
+- Features: Chern numbers, edge state analysis
 
-### [SSH Model](SSH%20Model/)
-**Su-Schrieffer-Heeger Model - 1D Topological Insulator**
-- 1D chain model with dimerization
-- Calculates winding number and Zak phase
-- Features: Bulk-boundary correspondence, edge states visualization
 
 
 ## Features
